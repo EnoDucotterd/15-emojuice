@@ -10,3 +10,7 @@ body {
   max-width: 320px;
   margin: auto;
 }
+
+header {
+  background-image: url(../img/fruits_divers.webp);
+}
