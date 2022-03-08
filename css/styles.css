@@ -14,3 +14,9 @@ body {
 header {
   background-image: url(../img/fruits_divers.webp);
 }
+
+header div {
+  font-family: 'Quattrocento Sans', sans-serif;
+  color: #66CC66;
+  background-color: #ffffffdd;
+}
