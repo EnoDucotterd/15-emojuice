@@ -19,6 +19,7 @@ header {
 
 header article {
   font-family: 'Quattrocento Sans', sans-serif;
+  text-align: center;
   color: #66CC66;
   background-color: #ffffffdd;
   padding: 28px 56px;
