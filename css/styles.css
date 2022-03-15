@@ -13,6 +13,7 @@ body {
 
 header {
   background-image: url(../img/fruits_divers.webp);
+  padding: 28px;
 }
 
 header div {
