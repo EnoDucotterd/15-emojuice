@@ -70,6 +70,12 @@ main {
   background-color: #66CC66;
 }
 
+main h1 {
+  font-family: 'Maven Pro', sans-serif;
+  font-weight: bold;
+  white-space: nowrap;
+}
+
 main div {
   text-align: center;
   padding: 85px 50px;
