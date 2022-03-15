@@ -65,18 +65,18 @@ footer p {
   margin: 37px 0px;
 }
 
-main {
+.first-page {
   font-family: 'Quattrocento Sans';
   background-color: #66CC66;
 }
 
-main h1 {
+.first-page h1 {
   font-family: 'Maven Pro', sans-serif;
   font-weight: bold;
   white-space: nowrap;
 }
 
-main div {
+.first-page div {
   text-align: center;
   padding: 85px 50px;
   background-color: white;
