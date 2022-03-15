@@ -81,3 +81,14 @@ footer p {
   padding: 85px 50px;
   background-color: white;
 }
+
+.first-page h2 {
+  font-family: 'Maven Pro', sans-serif;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.first-page article {
+
+}
