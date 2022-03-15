@@ -14,13 +14,14 @@ body {
 header {
   background-image: url(../img/fruits_divers.webp);
   padding: 28px;
+  border-top: solid 8px #66CC66;
 }
 
-header div {
+header article {
   font-family: 'Quattrocento Sans', sans-serif;
   color: #66CC66;
   background-color: #ffffffdd;
-  padding: 33px 56px;
+  padding: 28px 56px;
 }
 
 .button-container {
