@@ -64,3 +64,13 @@ footer p {
   text-align: center;
   margin: 37px 0px;
 }
+
+main {
+  font-family: 'Quattrocento Sans';
+}
+
+main div {
+  text-align: center;
+  padding: 85px 50px;
+  background-color: white;
+}
