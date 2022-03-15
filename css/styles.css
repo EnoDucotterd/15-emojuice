@@ -78,6 +78,7 @@ footer p {
 .section-information div {
   text-align: center;
   padding: 85px 50px;
+  background-color: white;
 }
 
 .section-information h2 {
@@ -88,7 +89,9 @@ footer p {
 }
 
 .section-information article {
-
+  padding: 35px;
+  margin: 27px;
+  border-radius: 18px;
 
 }
 
