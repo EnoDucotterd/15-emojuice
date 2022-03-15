@@ -28,16 +28,22 @@ header article {
   color: black;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
+  box-sizing: content-box;
 }
 
 .button {
   background-color: #66CC66;
+  color: white;
+  font-family: 'Maven Pro', sans-serif;
+  text-align: center;
   border-radius: 14px;
   padding: 15px;
   margin-bottom: 13px;
+  width: auto;
 }
 
-.button .light{
-
+.light{
+  color: #66CC66;
+  background-color: white;
 }
