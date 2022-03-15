@@ -66,16 +66,14 @@ footer p {
 }
 
 .section-information {
-  font-family: 'Quattrocento Sans';
   background-color: #66CC66;
 }
-
-.section-information h1 {
+.presentation h1 {
   font-family: 'Maven Pro', sans-serif;
   font-weight: bold;
 }
 
-.section-information div {
+.presentation {
   text-align: center;
   padding: 85px 50px;
   background-color: white;
@@ -92,6 +90,12 @@ footer p {
   padding: 35px;
   margin: 27px;
   border-radius: 18px;
+  font-family: 'Quattrocento Sans';
+}
+
+.section-information article h1 {
+  font-family: 'Sriracha', cursive;
+}
 
 }
 
