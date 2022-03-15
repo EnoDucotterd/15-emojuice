@@ -23,12 +23,14 @@ header div {
   padding: 33px 56px;
 }
 
-/* .button {
+.button {
   background-color: #66CC66;
   border-radius: 14px;
   padding: 15px;
   margin-bottom: 13px;
-} */
+  display: flex;
+  justify-content: space-around;
+}
 
 .button .light{
 
