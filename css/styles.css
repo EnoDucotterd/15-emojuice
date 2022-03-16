@@ -90,15 +90,19 @@ footer p {
   padding: 35px;
   margin: 27px;
   border-radius: 18px;
-  font-family: 'Quattrocento Sans';
+  font-family: 'Quattrocento Sans', sans-serif;
+  color: rgba(0, 0, 0, 0.411);
 }
 
 .section-information article h1 {
   font-family: 'Sriracha', cursive;
-}
-
+  color: black;
 }
 
 .fruit-container {
   width: 80px;
+}
+
+.banana {
+  background: #FFFFCC;
 }
