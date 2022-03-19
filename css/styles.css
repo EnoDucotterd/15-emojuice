@@ -99,6 +99,10 @@ footer p {
   color: black;
 }
 
+.section-information article a {
+  color: black;
+}
+
 .fruit-container {
   width: 80px;
 }
