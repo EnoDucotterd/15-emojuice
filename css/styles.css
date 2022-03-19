@@ -107,7 +107,8 @@ footer p {
 .fruit-container {
   width: 80px;
   display: flex;
-  flex-direction: row;
+  flex-direction: row-reverse;
+  justify-content: space-between;
 }
 
 .banana {
