@@ -67,6 +67,7 @@ footer p {
 
 .section-information {
   background-color: #66CC66;
+  padding-bottom: 50px;
 }
 .presentation h1 {
   font-family: 'Maven Pro', sans-serif;
@@ -105,14 +106,17 @@ footer p {
 }
 
 .fruit-container {
-  width: 80px;
   display: flex;
   flex-direction: row-reverse;
   justify-content: space-between;
 }
 
+.fruit-element-img{
+  width: 80px;
+}
+
 .fruit-element {
-  
+  padding-top: 68px;
 }
 
 .banana {
