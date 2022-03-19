@@ -106,6 +106,8 @@ footer p {
 
 .fruit-container {
   width: 80px;
+  display: flex;
+  flex-direction: row;
 }
 
 .banana {
