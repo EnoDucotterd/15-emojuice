@@ -134,3 +134,8 @@ footer p {
 .berries {
   background: #CC9999;
 }
+
+.nutrition-fact {
+  background-color: #66CC66;
+  padding-bottom: 50px;
+}
