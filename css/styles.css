@@ -139,6 +139,11 @@ footer p {
   text-align: center;
   background-color: #CCFF99;
   padding: 35px;
+  color: rgba(0, 0, 0, 0.411);
+}
+
+.kiwi-sirup h1 {
+
 }
 
 .nutrition-fact {
