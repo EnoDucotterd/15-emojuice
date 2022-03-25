@@ -139,3 +139,11 @@ footer p {
   background-color: #66CC66;
   padding-bottom: 50px;
 }
+
+.nutrition-fact article {
+  padding: 35px;
+  margin: 27px;
+  border-radius: 18px;
+  font-family: 'Quattrocento Sans', sans-serif;
+  color: white;
+}
