@@ -156,13 +156,16 @@ footer p {
 .nutrition-fact {
   background-color: #66CC66;
   padding-bottom: 50px;
-  font-family: 'Quattrocento Sans', sans-serif;
 }
 
 .nutrition-fact article {
   padding: 35px;
   margin: 27px;
-  border-radius: 18px;
   font-family: 'Quattrocento Sans', sans-serif;
   color: white;
+}
+
+.nutrition-fact .other-product {
+  background-color: #CCFF99;
+  color: black;
 }
