@@ -177,11 +177,16 @@ footer p {
   border-radius: 10px;
   display: flex;
   flex-direction: column-reverse;
+  width: 150px;
 }
 
 .product-container img {
   width: 50px;
   align-self: flex-end;
+}
+
+.product-container .addition {
+  align-self: flex-start;
 }
 
 .delicious {
