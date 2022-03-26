@@ -167,8 +167,8 @@ footer p {
 
 .other-product {
   background-color: #CCFF99;
-  margin: auto;
   text-align: center;
+  padding: 35px;
 }
 
 .other-product h1 {
@@ -180,24 +180,26 @@ footer p {
   font-family: 'Sriracha', cursive;
   border-radius: 10px;
   margin: auto;
+  padding: 20px;
 }
 
 .berries-coffe-container {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
 
 .delicious {
   background-color: #CC9999;
+  padding: 15px;
 }
 
 .ice {
   background-color: #CCCC99;
+  padding: 15px;
 }
 
 .other-product img {
   width: 50px;
 }
-
-
 
