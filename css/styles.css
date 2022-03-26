@@ -167,8 +167,27 @@ footer p {
 
 .other-product {
   background-color: #CCFF99;
-  color: black;
   margin: auto;
   text-align: center;
 }
+
+.other-product h1 {
+  color: black;
+}
+
+.other-product div {
+  color: black;
+  font-family: 'Sriracha', cursive;
+  border-radius: 10px;
+}
+
+.delicious {
+  background-color: #CC9999;
+}
+
+.ice {
+  background-color: #CCCC99;
+}
+
+
 
