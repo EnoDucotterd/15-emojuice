@@ -179,6 +179,7 @@ footer p {
   color: black;
   font-family: 'Sriracha', cursive;
   border-radius: 10px;
+  margin: auto;
 }
 
 .delicious {
@@ -189,5 +190,8 @@ footer p {
   background-color: #CCCC99;
 }
 
+.other-product img {
+  width: 50px;
+}
 
 
