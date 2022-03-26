@@ -181,6 +181,7 @@ footer p {
 
 .product-container img {
   width: 50px;
+  align-self: flex-end;
 }
 
 .delicious {
