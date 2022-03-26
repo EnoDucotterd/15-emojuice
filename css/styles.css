@@ -155,7 +155,6 @@ footer p {
 
 .nutrition-fact {
   background-color: #66CC66;
-  padding-bottom: 50px;
 }
 
 .nutrition-fact article {
@@ -168,7 +167,9 @@ footer p {
 .other-product {
   background-color: #CCFF99;
   text-align: center;
-  padding: 35px;
+  padding: 35px 0px;
+  font-family: 'Maven Pro', sans-serif;
+
 }
 
 .other-product h1 {
@@ -179,8 +180,7 @@ footer p {
   color: black;
   font-family: 'Sriracha', cursive;
   border-radius: 10px;
-  margin: auto;
-  padding: 20px;
+  margin: 14px;
 }
 
 .berries-coffe-container {
