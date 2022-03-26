@@ -168,4 +168,12 @@ footer p {
 .nutrition-fact .other-product {
   background-color: #CCFF99;
   color: black;
+  margin: auto;
+  text-align: center;
+}
+
+.product-container {
+  font-family: 'Sriracha', cursive;
+  display: flex;
+  flex-direction: column-reverse;
 }
