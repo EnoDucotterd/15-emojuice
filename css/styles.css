@@ -165,36 +165,10 @@ footer p {
   color: white;
 }
 
-.nutrition-fact .other-product {
+.other-product {
   background-color: #CCFF99;
   color: black;
   margin: auto;
   text-align: center;
 }
 
-.product-container {
-  font-family: 'Sriracha', cursive;
-  border-radius: 10px;
-  display: flex;
-  flex-direction: column-reverse;
-  width: 150px;
-  padding: 15px;
-}
-
-.product-container img {
-  width: 50px;
-  align-self: flex-end;
-  justify-content: flex-end;
-}
-
-.product-container .addition {
-  align-self: flex-start;
-}
-
-.delicious {
-  background-color: #CC9999;
-}
-
-.ice {
-  background-color: #CCCC99;
-}
