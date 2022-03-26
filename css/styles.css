@@ -178,11 +178,13 @@ footer p {
   display: flex;
   flex-direction: column-reverse;
   width: 150px;
+  padding: 15px;
 }
 
 .product-container img {
   width: 50px;
   align-self: flex-end;
+  justify-content: flex-end;
 }
 
 .product-container .addition {
