@@ -14,13 +14,13 @@ body {
 header {
   background-image: url(../img/fruits_divers.webp);
   padding: 28px;
-  border-top: solid 8px #66CC66;
+  border-top: solid 8px #66cc66;
 }
 
 header article {
-  font-family: 'Quattrocento', serif;
+  font-family: "Quattrocento", serif;
   text-align: center;
-  color: #66CC66;
+  color: #66cc66;
   background-color: #ffffffdd;
   padding: 5px 56px;
 }
@@ -35,9 +35,9 @@ header article {
 }
 
 .button {
-  background-color: #66CC66;
+  background-color: #66cc66;
   color: white;
-  font-family: 'Maven Pro', serif;
+  font-family: "Maven Pro", serif;
   text-align: center;
   border-radius: 14px;
   padding: 15px;
@@ -46,32 +46,32 @@ header article {
   text-decoration: none;
 }
 
-.light{
-  color: #66CC66;
+.light {
+  color: #66cc66;
   background-color: white;
 }
 
 footer h1 {
-  font-family: 'Maven Pro';
+  font-family: "Maven Pro";
   font-weight: bold;
-  color: #66CC66;
+  color: #66cc66;
   text-align: center;
 }
 
 footer p {
-  color: #66CC66;
-  font-family: 'Maven Pro', sans-serif;
+  color: #66cc66;
+  font-family: "Maven Pro", sans-serif;
   text-align: center;
   margin: 37px 0px;
 }
 
 .section-information {
-  background-color: #66CC66;
+  background-color: #66cc66;
   padding-bottom: 50px;
 }
 
 .presentation h1 {
-  font-family: 'Maven Pro', sans-serif;
+  font-family: "Maven Pro", sans-serif;
   font-weight: bold;
 }
 
@@ -82,7 +82,7 @@ footer p {
 }
 
 .section-information h2 {
-  font-family: 'Maven Pro', sans-serif;
+  font-family: "Maven Pro", sans-serif;
   font-weight: bold;
   color: white;
   text-align: center;
@@ -92,12 +92,12 @@ footer p {
   padding: 35px;
   margin: 27px;
   border-radius: 18px;
-  font-family: 'Quattrocento', serif;
+  font-family: "Quattrocento", serif;
   color: rgba(0, 0, 0, 0.411);
 }
 
 .section-information article h1 {
-  font-family: 'Sriracha', cursive;
+  font-family: "Sriracha", cursive;
   color: black;
 }
 
@@ -112,7 +112,7 @@ footer p {
   justify-content: space-between;
 }
 
-.fruit-element-img{
+.fruit-element-img {
   width: 80px;
 }
 
@@ -121,48 +121,48 @@ footer p {
 }
 
 .banana {
-  background: #FFFFCC;
+  background: #ffffcc;
 }
 
 .kiwi {
-  background: #CCFF99;
+  background: #ccff99;
 }
 
 .espresso {
-  background: #CCCC99;
+  background: #cccc99;
 }
 
 .berries {
-  background: #CC9999;
+  background: #cc9999;
 }
 
 .kiwi-sirup {
   text-align: center;
-  background-color: #CCFF99;
+  background-color: #ccff99;
   padding: 35px;
   color: rgba(0, 0, 0, 0.411);
 }
 
 .kiwi-sirup h1 {
-  font-family: 'Sriracha', cursive;
+  font-family: "Sriracha", cursive;
   color: black;
 }
 
 .kiwi-container .element {
   border: 36px solid white;
-  background-color: white; 
+  background-color: white;
   border-radius: 50%;
 }
 
 .nutrition-fact {
-  background-color: #66CC66;
+  background-color: #66cc66;
   align-items: center;
 }
 
 .nutrition-fact article {
   padding: 35px;
   margin: 27px;
-  font-family: 'Quattrocento', serif;
+  font-family: "Quattrocento", serif;
   color: white;
 }
 
@@ -171,11 +171,10 @@ footer p {
 }
 
 .other-product {
-  background-color: #CCFF99;
+  background-color: #ccff99;
   text-align: center;
   padding: 35px 0px;
-  font-family: 'Maven Pro', sans-serif;
-
+  font-family: "Maven Pro", sans-serif;
 }
 
 .other-product h1 {
@@ -184,7 +183,7 @@ footer p {
 
 .other-product div {
   color: black;
-  font-family: 'Sriracha', cursive;
+  font-family: "Sriracha", cursive;
   border-radius: 10px;
   margin: 14px;
 }
@@ -197,16 +196,15 @@ footer p {
 }
 
 .delicious {
-  background-color: #CC9999;
+  background-color: #cc9999;
   padding: 15px;
 }
 
 .ice {
-  background-color: #CCCC99;
+  background-color: #cccc99;
   padding: 15px;
 }
 
 .other-product img {
   width: 50px;
 }
-
