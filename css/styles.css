@@ -18,7 +18,7 @@ header {
 }
 
 header article {
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Quattrocento', serif;
   text-align: center;
   color: #66CC66;
   background-color: #ffffffdd;
@@ -37,7 +37,7 @@ header article {
 .button {
   background-color: #66CC66;
   color: white;
-  font-family: 'Maven Pro', sans-serif;
+  font-family: 'Maven Pro', serif;
   text-align: center;
   border-radius: 14px;
   padding: 15px;
@@ -91,7 +91,7 @@ footer p {
   padding: 35px;
   margin: 27px;
   border-radius: 18px;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Quattrocento', serif;
   color: rgba(0, 0, 0, 0.411);
 }
 
@@ -160,7 +160,7 @@ footer p {
 .nutrition-fact article {
   padding: 35px;
   margin: 27px;
-  font-family: 'Quattrocento Sans', sans-serif;
+  font-family: 'Quattrocento', serif;
   color: white;
 }
 
